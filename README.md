@@ -12,7 +12,7 @@ protein-level: Crosslinking_protein.cys
 domain-level: Crosslinking_domain.cys                        
 residue-level:Crosslinking_residue.cys                                            
 
-High-throughput interactome                         
+Human high-throughput interactome                         
 protein-level: High-throughput_protein.cys                       
 
 Human global interactome                 
