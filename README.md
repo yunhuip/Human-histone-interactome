@@ -1,5 +1,5 @@
 # Human-histone-interactome
-This fold contains human histone interactome buit from the structural, chemical cross-linking and high-throughput data and all files can be read with Cytoscape 3.7.0 or higher version.
+This fold contains human histone interactomes buit from the structural, chemical cross-linking and high-throughput data. All files can be read with Cytoscape 3.7.0 or higher version.
 
 Human structural interactome
 protein-level: Structural_protein.cys
