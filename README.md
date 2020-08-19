@@ -2,11 +2,8 @@
 This folder contains human histone interactomes buit from structural, chemical cross-linking and high-throughput data. All files can be read with Cytoscape 3.7.0 or higher version.
 
 Human structural interactome
-
 protein-level: Structural_protein.cys
-
 domain-level: Structural_domain.cys
-
 residue-level:Structural_residue.cys
 
 Human cross-linking interactome
